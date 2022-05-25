@@ -1,0 +1,16 @@
+2022-05-25 21:53:12.545  INFO 3208 --- [main] m.e.ElasticSearchTest                    : Starting ElasticSearchTest using Java 16.0.2 on mao with PID 3208 (started by mao in H:\程序\大三下期\elasticsearch删除文档数据)
+2022-05-25 21:53:12.546 DEBUG 3208 --- [main] m.e.ElasticSearchTest                    : Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-25 21:53:12.547  INFO 3208 --- [main] m.e.ElasticSearchTest                    : The following 1 profile is active: "dev"
+2022-05-25 21:53:14.094  INFO 3208 --- [main] m.e.ElasticSearchTest                    : Started ElasticSearchTest in 1.889 seconds (JVM running for 3.445)
+2022-05-25 21:54:45.112  INFO 15192 --- [main] m.e.ElasticSearchTest                    : Starting ElasticSearchTest using Java 16.0.2 on mao with PID 15192 (started by mao in H:\程序\大三下期\elasticsearch删除文档数据)
+2022-05-25 21:54:45.114 DEBUG 15192 --- [main] m.e.ElasticSearchTest                    : Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-25 21:54:45.115  INFO 15192 --- [main] m.e.ElasticSearchTest                    : The following 1 profile is active: "dev"
+2022-05-25 21:54:46.678  INFO 15192 --- [main] m.e.ElasticSearchTest                    : Started ElasticSearchTest in 1.914 seconds (JVM running for 3.468)
+2022-05-25 21:55:04.876  INFO 16556 --- [main] m.e.ElasticSearchTest                    : Starting ElasticSearchTest using Java 16.0.2 on mao with PID 16556 (started by mao in H:\程序\大三下期\elasticsearch删除文档数据)
+2022-05-25 21:55:04.877 DEBUG 16556 --- [main] m.e.ElasticSearchTest                    : Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-25 21:55:04.877  INFO 16556 --- [main] m.e.ElasticSearchTest                    : The following 1 profile is active: "dev"
+2022-05-25 21:55:06.356  INFO 16556 --- [main] m.e.ElasticSearchTest                    : Started ElasticSearchTest in 1.828 seconds (JVM running for 3.364)
+2022-05-25 21:55:23.825  INFO 10420 --- [main] m.e.ElasticSearchTest                    : Starting ElasticSearchTest using Java 16.0.2 on mao with PID 10420 (started by mao in H:\程序\大三下期\elasticsearch删除文档数据)
+2022-05-25 21:55:23.826 DEBUG 10420 --- [main] m.e.ElasticSearchTest                    : Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-25 21:55:23.826  INFO 10420 --- [main] m.e.ElasticSearchTest                    : The following 1 profile is active: "dev"
+2022-05-25 21:55:25.238  INFO 10420 --- [main] m.e.ElasticSearchTest                    : Started ElasticSearchTest in 1.749 seconds (JVM running for 3.178)
